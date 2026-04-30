@@ -1,24 +1,27 @@
-//
-//  ContentView.swift
-//  Gold Bempt
-//
-//  Created by Tymur Batulin on 29.04.2026.
-//
-
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
+    @Environment(AppCoordinator.self) private var coordinator
 
-#Preview {
-    ContentView()
+    var body: some View {
+        @Bindable var coordinator = coordinator
+        TabView(selection: $coordinator.selectedTab) {
+            Tab("Home", systemImage: "house.fill", value: AppTab.home) {
+                HomeView()
+            }
+            Tab("Quizzes", systemImage: "bolt.fill", value: AppTab.quiz) {
+                QuizMenuView()
+            }
+            Tab("Library", systemImage: "books.vertical.fill", value: AppTab.library) {
+                LibraryView()
+            }
+            Tab("AI Guide", systemImage: "sparkles", value: AppTab.assistant) {
+                AssistantView()
+            }
+            Tab("Profile", systemImage: "person.fill", value: AppTab.profile) {
+                ProfileView()
+            }
+        }
+        .tint(GoldRushTheme.Colors.richGold)
+    }
 }

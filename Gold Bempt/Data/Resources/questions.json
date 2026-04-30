@@ -1,0 +1,452 @@
+[
+  {
+    "id": "11111111-0001-0001-0001-000000000001",
+    "text": "On what date was gold discovered at Sutter's Mill, officially starting the California Gold Rush?",
+    "options": ["January 24, 1848", "July 4, 1849", "March 15, 1847", "December 1, 1850"],
+    "correctIndex": 0,
+    "explanation": "James W. Marshall spotted gold flakes in the millrace of John Sutter's sawmill at Coloma, California on January 24, 1848. The discovery transformed the American West within months.",
+    "topic": "Key Events",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000002",
+    "text": "Who discovered gold at Sutter's Mill in January 1848?",
+    "options": ["John Sutter", "James W. Marshall", "Sam Brannan", "Kit Carson"],
+    "correctIndex": 1,
+    "explanation": "James W. Marshall, a carpenter employed by John Sutter, noticed shiny flakes in the millrace while building a sawmill. Despite being the trigger of history's largest gold rush, Marshall died in poverty.",
+    "topic": "Historical Figures",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000003",
+    "text": "What was the nickname given to prospectors who arrived in California in 1849?",
+    "options": ["Rushers", "Forty-Niners", "Gold Seekers", "Argonauts"],
+    "correctIndex": 1,
+    "explanation": "Miners who flooded California in 1849 earned the iconic nickname 'Forty-Niners,' still celebrated today by San Francisco's NFL team. The term 'Argonauts' was also used, referencing the Greek myth of Jason and the Golden Fleece.",
+    "topic": "Key Events",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000004",
+    "text": "Where exactly was gold first discovered in California?",
+    "options": ["Sacramento River", "Coloma, on the American River", "San Francisco Bay", "Sierra Nevada peaks"],
+    "correctIndex": 1,
+    "explanation": "Gold was found in the tailrace of a sawmill at Coloma, in the South Fork of the American River. The site is now preserved as Marshall Gold Discovery State Historic Park.",
+    "topic": "Locations",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000005",
+    "text": "Approximately how many people migrated to California between 1848 and 1855?",
+    "options": ["About 10,000", "About 50,000", "Over 300,000", "Over 1 million"],
+    "correctIndex": 2,
+    "explanation": "Historians estimate over 300,000 people arrived in California during the Gold Rush years. They came from across the United States, Latin America, Europe, Australia, and Asia.",
+    "topic": "Key Events",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000006",
+    "text": "Who was the landowner of Sutter's Mill when gold was discovered?",
+    "options": ["James Marshall", "John Sutter", "Sam Brannan", "Peter Burnett"],
+    "correctIndex": 1,
+    "explanation": "John Augustus Sutter owned the land and had commissioned the sawmill. The gold rush ironically ruined him — squatters overran his property and destroyed his agricultural empire.",
+    "topic": "Historical Figures",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000007",
+    "text": "Which city served as the main commercial hub and gateway to the Gold Rush?",
+    "options": ["Los Angeles", "Sacramento", "San Francisco", "Monterey"],
+    "correctIndex": 2,
+    "explanation": "San Francisco exploded from a small village of ~1,000 in 1848 to a booming city of 25,000 by 1850. It became the financial, commercial, and social center of the gold rush, hosting banks, newspapers, and luxury hotels.",
+    "topic": "Locations",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000008",
+    "text": "What basic tool did most early prospectors use to extract gold from riverbeds?",
+    "options": ["Hydraulic hose", "Gold pan", "Pickaxe and dynamite", "Mercury amalgamator"],
+    "correctIndex": 1,
+    "explanation": "Gold panning — swirling river sediment in a shallow pan to let the water wash away lighter material while heavier gold settled — was the primary early technique. It required no capital but was exhausting and rarely lucrative.",
+    "topic": "Daily Life",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000009",
+    "text": "What year did California achieve statehood, accelerated by the Gold Rush?",
+    "options": ["1846", "1848", "1850", "1852"],
+    "correctIndex": 2,
+    "explanation": "California was admitted to the Union on September 9, 1850 as a free state. The population surge from the Gold Rush made the usual territorial period unnecessary. Its admission intensified national debate over slavery.",
+    "topic": "Key Events",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000010",
+    "text": "What did the 'Mother Lode' refer to?",
+    "options": ["A specific mine owned by John Sutter", "The richest single nugget ever found", "The main gold-bearing vein running through the Sierra Nevada foothills", "The ship that carried most prospectors to California"],
+    "correctIndex": 2,
+    "explanation": "The 'Mother Lode' describes the extensive gold-bearing quartz vein system running roughly 120 miles through the Sierra Nevada foothills in California. Many of the most productive mining towns were strung along this corridor.",
+    "topic": "Locations",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000011",
+    "text": "Which San Francisco merchant became California's first millionaire, not by mining but by selling supplies?",
+    "options": ["Levi Strauss", "Sam Brannan", "Collis Huntington", "Mark Hopkins"],
+    "correctIndex": 1,
+    "explanation": "Sam Brannan purchased all the mining equipment he could find in San Francisco before publicly announcing the gold discovery, then sold the supplies at enormous mark-ups. He is often called California's first millionaire.",
+    "topic": "Economics",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000012",
+    "text": "What was the Foreign Miners' Tax of 1850 primarily designed to target?",
+    "options": ["British merchants", "Mexican landowners", "Chinese and Latin American miners", "French trading companies"],
+    "correctIndex": 2,
+    "explanation": "The Foreign Miners' Tax imposed a monthly fee on non-citizen miners, specifically targeting the large numbers of Chinese and Latin American (especially Chilean and Mexican) prospectors who competed with American-born miners.",
+    "topic": "Economics",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000013",
+    "text": "What environmental technique, later banned in California, used high-pressure water to blast hillsides for gold?",
+    "options": ["Dredging", "Hard-rock mining", "Hydraulic mining", "Sluice flooding"],
+    "correctIndex": 2,
+    "explanation": "Hydraulic mining employed giant water cannons called monitors to blast entire hillsides away. The resulting sediment devastated downstream farmland. It was effectively banned by the Sawyer Decision (1884), an early environmental protection ruling.",
+    "topic": "Technology",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000014",
+    "text": "A miner using a 'long tom' was doing what?",
+    "options": ["Blasting rock with explosives", "Using a long wooden sluice trough to wash gold-bearing gravel", "Operating a water wheel", "Drilling a deep vertical shaft"],
+    "correctIndex": 1,
+    "explanation": "A 'long tom' was an extended wooden sluice box, typically 12 to 25 feet long, with riffles on the bottom to catch gold. It allowed multiple miners to process larger volumes of gravel than simple panning, making it a popular collective technique.",
+    "topic": "Daily Life",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000015",
+    "text": "Which disease, caused by lack of vitamin C, was rampant among miners with poor diets?",
+    "options": ["Cholera", "Typhoid", "Scurvy", "Malaria"],
+    "correctIndex": 2,
+    "explanation": "Scurvy devastated mining camps where fresh produce was unavailable. Miners who subsisted on salt pork, hardtack, and beans suffered gum disease, joint pain, and eventually death. The cure — citrus fruits or fresh vegetables — was well known but hard to obtain.",
+    "topic": "Daily Life",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000016",
+    "text": "What famous clothing company was born from the demand for durable miners' clothing?",
+    "options": ["Wrangler", "Lee", "Levi Strauss & Co.", "Carhartt"],
+    "correctIndex": 2,
+    "explanation": "Levi Strauss, a Bavarian immigrant, arrived in San Francisco in 1853 as a dry-goods merchant. In 1873, he partnered with tailor Jacob Davis to patent riveted denim work pants — the ancestor of blue jeans — creating one of the most enduring brand legacies in American history.",
+    "topic": "Economics",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000017",
+    "text": "How long did it typically take to sail from New York to San Francisco via Cape Horn?",
+    "options": ["3–4 weeks", "6–8 weeks", "5–8 months", "Over a year"],
+    "correctIndex": 2,
+    "explanation": "The sea route around the southern tip of South America (Cape Horn) took approximately 5 to 8 months, making it the longest but often safest route. Conditions at sea were brutal, with storms, disease, and spoiled food common.",
+    "topic": "Daily Life",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000018",
+    "text": "What was the 'Panama Route' shortcut used by gold rush travelers?",
+    "options": ["A secret mountain pass through the Rockies", "Crossing Panama by land then sailing north up the Pacific coast", "A canal dug through Mexico", "A train route from Texas to California"],
+    "correctIndex": 1,
+    "explanation": "The Panama route involved sailing to Panama's Atlantic coast, crossing the isthmus on foot or mule through jungle, then catching a Pacific-bound ship to California. The journey took 5–8 weeks but exposed travelers to deadly tropical diseases like cholera and yellow fever.",
+    "topic": "Daily Life",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000019",
+    "text": "Which famous writer lived in the California mining camps and drew on those experiences to write 'The Luck of Roaring Camp'?",
+    "options": ["Mark Twain", "Bret Harte", "Jack London", "John Steinbeck"],
+    "correctIndex": 1,
+    "explanation": "Bret Harte (1836–1902) spent years in California's mining country and used his observations to write vivid short stories including 'The Luck of Roaring Camp' (1868) and 'The Outcasts of Poker Flat.' His work made the Gold Rush iconic in American literature.",
+    "topic": "Historical Figures",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000020",
+    "text": "Mark Twain wrote a famous account of his time in the Nevada and California mining regions. What was it called?",
+    "options": ["Adventures of Huckleberry Finn", "Roughing It", "The Call of the Wild", "Life on the Mississippi"],
+    "correctIndex": 1,
+    "explanation": "'Roughing It' (1872) is Mark Twain's autobiographical account of his adventures in Nevada and California during the silver and gold mining era. It remains one of the most entertaining firsthand accounts of western frontier life.",
+    "topic": "Historical Figures",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000021",
+    "text": "In gold rush mythology, the 'Lost Dutchman's Mine' was supposedly located where?",
+    "options": ["Sierra Nevada mountains, California", "Superstition Mountains, Arizona", "Rocky Mountains, Colorado", "Black Hills, South Dakota"],
+    "correctIndex": 1,
+    "explanation": "The Lost Dutchman's Mine is the most famous lost mine legend in American history, supposedly hidden in the Superstition Mountains east of Phoenix, Arizona. Despite countless expeditions, it has never been definitively found and may be entirely fictional.",
+    "topic": "Myths & Legends",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000022",
+    "text": "What was 'fool's gold,' frequently mistaken by inexperienced prospectors for real gold?",
+    "options": ["Pyrite (iron sulfide)", "Chalcopyrite (copper iron sulfide)", "Mica flakes", "Quartz crystals"],
+    "correctIndex": 0,
+    "explanation": "Iron pyrite (FeS₂) earned the name 'fool's gold' because its brassy yellow color and metallic luster deceived inexperienced miners. Unlike real gold, pyrite is brittle, lighter, and produces a sulfurous smell when struck. Gold is malleable and odorless.",
+    "topic": "Myths & Legends",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000023",
+    "text": "The legend of El Dorado — a city of gold — influenced which real historical event?",
+    "options": ["The founding of New Orleans", "Spanish conquest of the Americas and later the Gold Rush mentality", "The Lewis and Clark Expedition", "Building of the Panama Canal"],
+    "correctIndex": 1,
+    "explanation": "El Dorado ('The Gilded One') was a mythical South American king or city of immense wealth. The legend drove Spanish conquistadors deep into the Americas and psychologically shaped the Gold Rush — the idea that fabulous wealth was just over the next hill persisted for centuries.",
+    "topic": "Myths & Legends",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000024",
+    "text": "What percentage of California's Gold Rush population was estimated to be female?",
+    "options": ["Less than 8%", "About 20%", "Around 35%", "Roughly 50%"],
+    "correctIndex": 0,
+    "explanation": "Women represented fewer than 8% of California's gold rush population, making them extremely scarce in mining camps. Those who arrived often worked as cooks, laundresses, or boardinghouse keepers — frequently earning far more than the men who were panning for gold.",
+    "topic": "Daily Life",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000025",
+    "text": "What was the approximate peak year for gold production in California during the Gold Rush?",
+    "options": ["1848", "1852", "1856", "1860"],
+    "correctIndex": 1,
+    "explanation": "California gold production peaked around 1852, when miners extracted an estimated 81 million dollars' worth of gold (in 1852 values). After that, easily accessible surface deposits were exhausted and production declined, forcing industrial mining techniques.",
+    "topic": "Economics",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000026",
+    "text": "The Chinese immigrants in California's gold rush were often forced to work in areas called what?",
+    "options": ["Slag heaps", "Tailings — ground already worked by other miners", "The deep shafts", "Offshore dredging zones"],
+    "correctIndex": 1,
+    "explanation": "Chinese miners faced severe discrimination and were frequently expelled from productive claims. They often worked 'tailings' — ground already worked and abandoned by other miners — using careful, methodical techniques to extract remaining gold that others had missed.",
+    "topic": "Daily Life",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000027",
+    "text": "Which of the following 'Big Four' railroad magnates got his start as a hardware merchant supplying miners?",
+    "options": ["Cornelius Vanderbilt", "Collis Huntington", "Jay Gould", "Andrew Carnegie"],
+    "correctIndex": 1,
+    "explanation": "Collis Huntington and his partner Mark Hopkins ran a hardware store in Sacramento supplying miners. Along with Leland Stanford and Charles Crocker, they formed the 'Big Four' who built the Central Pacific Railroad — becoming vastly wealthier from railroads than any miner ever was from gold.",
+    "topic": "Historical Figures",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000028",
+    "text": "What was the Comstock Lode, and how did it relate to the Gold Rush legacy?",
+    "options": ["A major California gold mine discovered in 1849", "A massive silver deposit discovered in Nevada in 1859, drawing former Gold Rush miners", "A fraudulent investment scheme in San Francisco", "A supply route used by prospectors"],
+    "correctIndex": 1,
+    "explanation": "The Comstock Lode was discovered in Nevada's Virginia City in 1859, creating America's first major silver rush. Many '49ers who had failed in California found renewed hope there. The wealth from the Comstock funded San Francisco's banking system and helped finance the Union during the Civil War.",
+    "topic": "Economics",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000029",
+    "text": "What mining technique used mercury (quicksilver) to capture gold particles?",
+    "options": ["Cyanide leaching", "Amalgamation", "Flotation", "Smelting"],
+    "correctIndex": 1,
+    "explanation": "Mercury amalgamation exploited the fact that mercury bonds with gold to form an amalgam. Miners would introduce mercury into sluice boxes or stamp mills; it captured fine gold particles that water would wash away. The amalgam was then heated to drive off the mercury, leaving gold behind — though at great environmental and health cost.",
+    "topic": "Technology",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000030",
+    "text": "What name was given to the overland wagon trail most commonly used by Gold Rush migrants traveling west?",
+    "options": ["The Santa Fe Trail", "The California Trail", "The Oregon–California Trail", "The Butterfield Overland Route"],
+    "correctIndex": 2,
+    "explanation": "The Oregon–California Trail was the primary overland route, branching in what is now Idaho — one fork heading to Oregon, the other to California. The 2,000-mile journey from Missouri took 4–6 months, and thousands of wagons wore wheel ruts still visible today.",
+    "topic": "Locations",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000031",
+    "text": "The city of Sacramento was founded primarily to serve what Gold Rush purpose?",
+    "options": ["As a military fort to protect settlers", "As a supply and transit hub connecting the mines to San Francisco Bay", "As California's government capital from the start", "As a Chinese immigrant settlement"],
+    "correctIndex": 1,
+    "explanation": "Sacramento, located at the confluence of the Sacramento and American rivers, became the primary inland supply depot and transit point for miners heading to the Sierra Nevada foothills. Its strategic location made it California's commercial inland capital and, eventually, its official state capital.",
+    "topic": "Locations",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000032",
+    "text": "A 'flume' in Gold Rush mining was:",
+    "options": ["A type of explosive charge", "An artificial channel carrying water to or through mining operations", "A deep vertical mine shaft", "A financial instrument for investing in mines"],
+    "correctIndex": 1,
+    "explanation": "Flumes were artificial wooden channels that carried water, sometimes for miles, from streams to mining sites. They allowed miners to wash gold-bearing gravel in areas far from natural water sources and were essential infrastructure for large-scale placer operations.",
+    "topic": "Technology",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000033",
+    "text": "Which notorious San Francisco criminal organization terrorized the city in the early 1850s?",
+    "options": ["The Molly Maguires", "The Sydney Ducks", "The Barbary Coast Gang", "The Tong Brotherhood"],
+    "correctIndex": 1,
+    "explanation": "The 'Sydney Ducks' were a gang of Australian convicts and ex-convicts who settled in a San Francisco neighborhood called 'Sydney-Town.' They were linked to multiple arson fires in the city, leading vigilance committees to form and ultimately hang or exile many of their members.",
+    "topic": "Daily Life",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000034",
+    "text": "What year did the first transcontinental railroad — partly financed by Gold Rush wealth — link California to the eastern United States?",
+    "options": ["1862", "1869", "1875", "1880"],
+    "correctIndex": 1,
+    "explanation": "The transcontinental railroad was completed on May 10, 1869, when the Central Pacific (building east from Sacramento) met the Union Pacific (building west from Omaha) at Promontory Summit, Utah. The golden spike driven at the ceremony symbolically echoed the Gold Rush that had made California worth connecting.",
+    "topic": "Key Events",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000035",
+    "text": "The legendary 'Deadwood' gold rush of 1876 occurred in which U.S. territory?",
+    "options": ["Montana Territory", "Dakota Territory", "Colorado Territory", "Wyoming Territory"],
+    "correctIndex": 1,
+    "explanation": "Gold discovered in the Black Hills of the Dakota Territory in 1874 (by Custer's expedition) triggered a rush to Deadwood in 1876 — in violation of a treaty with the Lakota Sioux. The town became famous for its lawlessness, and Wild Bill Hickok was murdered there the same year.",
+    "topic": "Locations",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000036",
+    "text": "In common Gold Rush lore, what did it mean when a miner 'struck it rich'?",
+    "options": ["Found iron ore", "Discovered a substantial gold deposit worth significant money", "Successfully staked a legal mining claim", "Survived a winter season"],
+    "correctIndex": 1,
+    "explanation": "To 'strike it rich' meant discovering a significant gold deposit. The phrase entered everyday English from the Gold Rush era. In reality, the vast majority of miners never struck it rich — the expression lives on partly because of how rarely it actually happened.",
+    "topic": "Myths & Legends",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000037",
+    "text": "Which famous Mexican-American bandit of the Gold Rush era became a legendary folk hero, often compared to Robin Hood?",
+    "options": ["Juan Cortina", "Joaquin Murrieta", "Tiburcio Vásquez", "Juan Flores"],
+    "correctIndex": 1,
+    "explanation": "Joaquin Murrieta (c. 1829–1853) became a California legend, allegedly turning to banditry after being driven from his mining claim and witnessing violence against his family. His story inspired 'The Legend of Zorro' and he remains a symbol of resistance to anti-Mexican discrimination during the Gold Rush.",
+    "topic": "Myths & Legends",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000038",
+    "text": "What economic term describes the inflation of prices for basic goods in mining camps?",
+    "options": ["Deflation", "Stagflation", "Commodity inflation", "Placer premium"],
+    "correctIndex": 2,
+    "explanation": "Commodity inflation was severe in mining camps — a single egg could cost $1, a pair of boots $100, and a modest meal several dollars. The combination of high demand, scarce supply, and abundant gold (but few goods to buy) created extreme price inflation that wiped out many miners' earnings.",
+    "topic": "Economics",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000039",
+    "text": "What was the Klondike Gold Rush, and when did it occur?",
+    "options": ["A California rush in 1858", "A Nevada silver rush in 1859", "A Yukon gold rush in 1896–1899", "A Colorado rush in 1859"],
+    "correctIndex": 2,
+    "explanation": "The Klondike Gold Rush erupted when gold was found in Canada's Yukon Territory in 1896. An estimated 100,000 prospectors attempted the journey north; only about 30,000 made it to the Klondike. The rush inspired Jack London's wilderness stories and ended around 1899 when deposits were exhausted.",
+    "topic": "Key Events",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000040",
+    "text": "What is 'placer gold' (pronounced 'plasser')?",
+    "options": ["Gold found in underground quartz veins", "Gold particles deposited in riverbeds and gravel by water erosion", "Gold refined from copper ore", "Artificially created gold alloy"],
+    "correctIndex": 1,
+    "explanation": "Placer gold refers to gold deposits found in riverbeds, sandbars, and gravel beds, where erosion and water action have concentrated the metal over thousands of years. Placer mining techniques — panning, sluicing, dredging — were dominant in the early Gold Rush when surface deposits were still abundant.",
+    "topic": "Technology",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000041",
+    "text": "Which African-American entrepreneur became one of San Francisco's most influential businesswomen during the Gold Rush era?",
+    "options": ["Harriet Tubman", "Mary Ellen Pleasant", "Sojourner Truth", "Clara Brown"],
+    "correctIndex": 1,
+    "explanation": "Mary Ellen Pleasant (1812–1904) arrived in San Francisco around 1852 and built a business empire through boardinghouses, domestic service, and savvy investments. She used her wealth to fund abolitionist causes including John Brown's raid on Harpers Ferry and was one of the most remarkable figures of the Gold Rush era.",
+    "topic": "Historical Figures",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000042",
+    "text": "What did prospectors mean by 'seeing the elephant'?",
+    "options": ["Encountering a circus in a mining town", "Experiencing the harsh realities and disappointments of Gold Rush life firsthand", "Finding an unusually large gold nugget", "Surviving a grizzly bear attack"],
+    "correctIndex": 1,
+    "explanation": "'Seeing the elephant' was a 19th-century idiom for experiencing the full, often brutal reality of a risky endeavor — in the Gold Rush context, confronting the backbreaking labor, disease, violence, and disappointment that awaited most prospectors. Many returned home having 'seen the elephant' without a single ounce of gold.",
+    "topic": "Myths & Legends",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000043",
+    "text": "What is the Sawyer Decision (1884) known for in Gold Rush history?",
+    "options": ["Establishing mining claim boundaries", "Banning hydraulic mining due to environmental damage", "Taxing foreign miners", "Creating the first California mining court"],
+    "correctIndex": 1,
+    "explanation": "Judge Lorenzo Sawyer's 1884 ruling in Woodruff v. North Bloomfield Gravel Mining Co. effectively banned hydraulic mining in California. It was one of the first major judicial environmental protections in U.S. history, won by downstream farmers whose lands were destroyed by mining sediment.",
+    "topic": "Key Events",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000044",
+    "text": "The Wells Fargo company originated during the Gold Rush. What was its original primary service?",
+    "options": ["Banking and express delivery of gold and mail", "Selling mining equipment", "Running stagecoach lines only", "Operating frontier saloons"],
+    "correctIndex": 0,
+    "explanation": "Wells Fargo & Company was founded in 1852 in San Francisco specifically to provide banking services and express delivery — transporting gold dust, bullion, and letters between miners and the eastern United States. It became one of the most powerful financial institutions in the West.",
+    "topic": "Economics",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000045",
+    "text": "What major geologic feature made the Sierra Nevada foothills particularly gold-rich?",
+    "options": ["Ancient volcanic activity", "Glacial deposits from the Ice Age", "Gold deposited in ancient riverbeds then exposed by erosion", "Meteorite impact zones"],
+    "correctIndex": 2,
+    "explanation": "The gold in California's Sierra Nevada foothills was originally deposited in quartz veins by hydrothermal activity hundreds of millions of years ago. Over geological time, erosion broke down these veins and rivers carried the gold particles downstream, concentrating them in riverbeds — creating the placer deposits that triggered the rush.",
+    "topic": "Technology",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000046",
+    "text": "What common expression meaning 'to strike it rich' came directly from Gold Rush mining slang?",
+    "options": ["Hit the jackpot", "Strike gold", "Cash in your chips", "Make a killing"],
+    "correctIndex": 1,
+    "explanation": "'Strike gold' literally described finding a gold-bearing vein or deposit. It entered everyday English as a metaphor for any sudden success. Other Gold Rush expressions like 'stake a claim,' 'pan out,' and 'pay dirt' also remain common in modern language.",
+    "topic": "Myths & Legends",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000047",
+    "text": "Which legendary mountain man was hired to guide early Gold Rush travelers along the western trails?",
+    "options": ["Jim Bridger", "Kit Carson", "John C. Frémont", "Hugh Glass"],
+    "correctIndex": 1,
+    "explanation": "Kit Carson (1809–1868) was one of the most famous frontier guides and scouts of the era. He had explored much of the West with John C. Frémont's surveys and his knowledge of the terrain made him invaluable — and legendary — to emigrant parties heading to California.",
+    "topic": "Historical Figures",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000048",
+    "text": "What caused the catastrophic Great San Francisco Earthquake and how did it relate to the Gold Rush?",
+    "options": ["The earthquake in 1906 destroyed a city built largely on Gold Rush-era landfill, making damage worse", "Gold mining tunnels caused the earthquake directly", "The earthquake happened because of deforestation from mining", "There is no connection between the earthquake and the Gold Rush"],
+    "correctIndex": 0,
+    "explanation": "Much of San Francisco was built on landfill created during the Gold Rush era — ships were abandoned and buried, and coastal areas were filled in to create more land. The 1906 earthquake caused especially severe damage in these areas because saturated landfill liquefied, a phenomenon now called soil liquefaction.",
+    "topic": "Key Events",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000049",
+    "text": "What was the approximate value of all gold extracted from California during the Gold Rush years (1848–1855)?",
+    "options": ["About $2 million", "About $50 million", "Around $2 billion in today's terms", "Over $500 billion in today's terms"],
+    "correctIndex": 2,
+    "explanation": "Historians estimate that roughly $2 billion (in today's values) worth of gold was extracted from California between 1848 and 1855 — approximately 750,000 pounds of gold. Despite this staggering total, the wealth was concentrated among merchants and entrepreneurs, not the individual miners.",
+    "topic": "Economics",
+    "difficulty": "Expert"
+  },
+  {
+    "id": "11111111-0001-0001-0001-000000000050",
+    "text": "In an 1849 gold rush camp, a 'Sunday miner' referred to:",
+    "options": ["A miner who only worked on Sundays for religious reasons", "An inexperienced prospector who treated mining like a weekend hobby rather than serious work", "A professional who assessed claims for fees", "A camp preacher who organized Sunday services"],
+    "correctIndex": 1,
+    "explanation": "'Sunday miner' was a derogatory term for inexperienced, naive prospectors who underestimated the brutal realities of mining life. It implied someone who thought gold-seeking was as easy as a Sunday stroll — a delusion rapidly corrected by the first weeks of backbreaking, unrewarding labor.",
+    "topic": "Myths & Legends",
+    "difficulty": "Expert"
+  }
+]

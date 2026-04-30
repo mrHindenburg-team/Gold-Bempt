@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p '/Users/tymurbatulin/Downloads/Swift/work/Gold Bempt/Gold Bempt/UI/Theme')",
+      "Bash(mkdir -p '/Users/tymurbatulin/Downloads/Swift/work/Gold Bempt/Gold Bempt/UI/Components')",
+      "Bash(mkdir -p '/Users/tymurbatulin/Downloads/Swift/work/Gold Bempt/Gold Bempt/Domain/Entities')",
+      "Bash(mkdir -p '/Users/tymurbatulin/Downloads/Swift/work/Gold Bempt/Gold Bempt/Domain/Repositories')",
+      "Bash(mkdir -p '/Users/tymurbatulin/Downloads/Swift/work/Gold Bempt/Gold Bempt/Domain/UseCases')",
+      "Bash(xargs cat *)"
+    ]
+  }
+}
